@@ -1201,3 +1201,55 @@ nav.mastnav ul li a.activelink {
 .footnav ul li a {
   border-color: #121212;
 }
+
+
+
+@font1:'Lato', sans-serif;
+@font2:'ibmplexsans', sans-serif;
+@font2hairline:'ibmplexsanshairline', sans-serif;
+@font2ultralight:'ibmplexsansultra_light', sans-serif;
+@font2light:'ibmplexsanslight', sans-serif;
+@font2semibold:'ibmplexsanssemi_bold', sans-serif;
+@font2bold:'ibmplexsansbold', sans-serif;
+@font2extrabold:'ibmplexsansextra_bold', sans-serif;
+@font2black:'ibmplexsansblack', sans-serif;
+@font3:'Raleway', sans-serif;
+
+
+.font1{
+	font-family: @font1;
+}
+.font2{
+	font-family: @font2;
+}
+.font2hairline{
+	font-family: @font2hairline;
+}
+.font2light{
+	font-family: @font2light;
+}
+.font2semibold{
+	font-family: @font2semibold;
+}
+.font2bold{
+	font-family: @font2bold;
+}
+.font2extrabold{
+	font-family: @font2extrabold;
+}
+.font2ultralight{
+	font-family: @font2ultralight;
+}
+.font2black{
+	font-family: @font2black;
+}
+.font3{
+	font-family: @font3;
+}
+
+body, p{
+	font-family: @font1;
+}
+.btn-oscar{
+	font-family: @font1;
+}
