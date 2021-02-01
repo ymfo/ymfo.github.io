@@ -1112,3 +1112,92 @@ fieldset h1 {
 
 
 /*LESS Compiled to CSS for Preview Purpose*/
+
+
+.color {
+  color: #ed6663;
+}
+.white {
+  color: #65204d;
+}
+.silver {
+  color: #f0f4f4;
+}
+.grey {
+  color: #aaaaaa;
+}
+.dark {
+  color: #292929;
+}
+.black {
+  color: #121212;
+}
+.color-bg {
+  background-color: #ed6663;
+}
+.white-bg {
+  background-color: #65204d;
+}
+.silver-bg {
+  background-color: #f0f4f4;
+}
+.grey-bg {
+  background-color: #aaaaaa;
+}
+.dark-bg {
+  background-color: #292929;
+}
+.black-bg {
+  background-color: #121212;
+}
+body {
+  background-color: #ed6663;
+}
+body:before {
+  background-color: #65204d;
+}
+footer.mastfoot {
+  background-color: #f0f4f4;
+}
+a {
+  color: #121212;
+}
+a:hover {
+  color: #ed6663;
+}
+::selection {
+  background: #ed6663;
+  color: #65204d;
+}
+::-moz-selection {
+  background: #ed6663;
+  color: #65204d;
+}
+.link-show-poster {
+  background-color: #65204d;
+}
+.btn-oscar-color {
+  border-color: #ed6663;
+  color: #ed6663;
+}
+.btn-oscar-color:hover {
+  border-color: #ed6663;
+  background-color: #ed6663;
+  color: #65204d;
+}
+nav.mastnav ul li a {
+  color: #121212;
+}
+nav.mastnav ul li a:hover,
+nav.mastnav ul li a.activelink {
+  color: #aaaaaa;
+}
+.works-filter li a.active span {
+  color: #aaaaaa !important;
+}
+.bxslider .bx-wrapper .bx-pager {
+  background-color: #292929;
+}
+.footnav ul li a {
+  border-color: #121212;
+}
