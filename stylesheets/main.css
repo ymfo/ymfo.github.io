@@ -1204,52 +1204,40 @@ nav.mastnav ul li a.activelink {
 
 
 
-@font1:'Lato', sans-serif;
-@font2:'ibmplexsans', sans-serif;
-@font2hairline:'ibmplexsanshairline', sans-serif;
-@font2ultralight:'ibmplexsansultra_light', sans-serif;
-@font2light:'ibmplexsanslight', sans-serif;
-@font2semibold:'ibmplexsanssemi_bold', sans-serif;
-@font2bold:'ibmplexsansbold', sans-serif;
-@font2extrabold:'ibmplexsansextra_bold', sans-serif;
-@font2black:'ibmplexsansblack', sans-serif;
-@font3:'Raleway', sans-serif;
-
-
-.font1{
-	font-family: @font1;
+.font1 {
+  font-family: 'Lato', sans-serif;
 }
-.font2{
-	font-family: @font2;
+.font2 {
+  font-family: 'ibmplexsans', sans-serif;
 }
-.font2hairline{
-	font-family: @font2hairline;
+.font2hairline {
+  font-family: 'ibmplexsanshairline', sans-serif;
 }
-.font2light{
-	font-family: @font2light;
+.font2light {
+  font-family: 'ibmplexsanslight', sans-serif;
 }
-.font2semibold{
-	font-family: @font2semibold;
+.font2semibold {
+  font-family: 'ibmplexsanssemi_bold', sans-serif;
 }
-.font2bold{
-	font-family: @font2bold;
+.font2bold {
+  font-family: 'ibmplexsansbold', sans-serif;
 }
-.font2extrabold{
-	font-family: @font2extrabold;
+.font2extrabold {
+  font-family: 'ibmplexsansextra_bold', sans-serif;
 }
-.font2ultralight{
-	font-family: @font2ultralight;
+.font2ultralight {
+  font-family: 'ibmplexsansultra_light', sans-serif;
 }
-.font2black{
-	font-family: @font2black;
+.font2black {
+  font-family: 'ibmplexsansblack', sans-serif;
 }
-.font3{
-	font-family: @font3;
+.font3 {
+  font-family: 'Raleway', sans-serif;
 }
-
-body, p{
-	font-family: @font1;
+body,
+p {
+  font-family: 'Lato', sans-serif;
 }
-.btn-oscar{
-	font-family: @font1;
+.btn-oscar {
+  font-family: 'Lato', sans-serif;
 }
